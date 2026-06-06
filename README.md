@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Pawan Kumar 👋
 
-<!--
-**pawanriko/pawanriko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+💻 Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Structures & Algorithms
+* Python
+* JavaScript
+* Web Development
+* Git & GitHub
+
+🚀 Projects
+
+* KAI – Personal AI Assistant
+
+📍 Delhi, India
+
+## Current Goals
+
+* Build more projects
+* Improve problem solving skills
+* Learn full-stack development
+* Contribute to open source
+
+## Tech Stack
+
+HTML • CSS • JavaScript • Python • Git
