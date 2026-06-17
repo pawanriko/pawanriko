@@ -3,12 +3,7 @@
 
 
 ## 🌐 Socials:
-Instagram: https://www.instagram.com/rikoshugishax11
-LinkedIn: https://www.linkedin.com/in/pawan-kumar-795497315
-Email: zecxoff@gmail.com
-X (Twitter): https://x.com/ZecxoF52633
-Mastodon: https://mastodon.social/@pawanriko
-Medium: https://medium.com/@zecxoff
+Instagram: https://www.instagram.com/rikoshugishax11<br><br>LinkedIn: https://www.linkedin.com/in/pawan-kumar-795497315<br><br>Email: zecxoff@gmail.com<br><br>X (Twitter): https://x.com/ZecxoF52633<br><br>Mastodon: https://mastodon.social/@pawanriko<br><br>Medium: https://medium.com/@zecxoff<br>
 
 
 # 💻 Tech Stack:
