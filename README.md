@@ -10,26 +10,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=pawanriko&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=pawanriko&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pawanriko&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pawanriko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-# 💫 About Me:
-🌍  I'm based in New Delhi, India<br>🖥️  See my portfolio at My Portfolio<br>✉️  You can contact me at pawanriko@gmail.com<br>🧠  I'm currently learning Web Dev & Full stack Development<br>👥  I'm looking to collaborate on Kai AI<br>💬  Ask me about Working during the day, coding like Batman at night.
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pawanriko&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=pawanriko&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pawanriko&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=pawanriko&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
