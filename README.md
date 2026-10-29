@@ -3,13 +3,14 @@
 **BCA student** based in New Delhi, India — building AI & web projects, and learning DSA, Python, and JavaScript. Open to internships and collaboration.
 
 - Currently learning: Web Development & Full-Stack Development
-- Currently building: [KAI](https://github.com/pawanriko/KAI) — a personal AI assistant, and an entry for HackerRank Orchestrate October'26
+- Currently building: [HireSense AI](https://github.com/pawanriko/hiresense-ai) — an AI interview-prep platform (Django + React), live at [hiresense-ai-s8ih.onrender.com](https://hiresense-ai-s8ih.onrender.com)
 - Ask me about: working during the day, coding like Batman at night
 
 ## Featured Projects
 
 | Project | What it is | Tech |
 |---|---|---|
+| [HireSense AI](https://github.com/pawanriko/hiresense-ai) | Interview-prep platform: ATS resume scoring, JD matching with evidence, mock interviews, application tracker — [live demo](https://hiresense-ai-s8ih.onrender.com) (demo / demo1234) | Django, React, PostgreSQL, Groq/Gemini AI |
 | [KAI](https://github.com/pawanriko/KAI) | Personal AI assistant with chat history, memory, voice input, image upload | HTML, CSS, JavaScript, Groq API |
 | [Portfolio](https://github.com/pawanriko/portfolio) | My personal portfolio website | HTML, CSS, JavaScript |
 | [Mini-Projects](https://github.com/pawanriko/mini-project) | DSA Visualizer, Student Management System, To-Do App, Digital Clock | HTML, CSS, JavaScript, C++ |
@@ -18,7 +19,7 @@
 
 ## Tech Stack
 
-Python · C++ · JavaScript · HTML · CSS · Git & GitHub · Groq API
+Python · Django · React · JavaScript · C++ · HTML · CSS · Git & GitHub · Groq API
 
 ## Coding Profiles
 
