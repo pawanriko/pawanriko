@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Pawan%20Kumar&fontSize=46&fontColor=ffffff&animation=twinkling&desc=BCA%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%20Builder&descSize=17&descAlignY=58" width="100%" alt="Pawan Kumar" />
 
-# Hi, I'm Pawan Kumar 👋
+<div align="center">
 
 **BCA Student · Full-Stack Developer (Django + React) · AI Builder**
 
@@ -72,18 +72,6 @@ Open to internships and collaboration.
 <div align="center">
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=pawanriko&bg_color=0d1117&color=ffffff&line=2f81f7&point=ffffff&area=true&hide_border=true)
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawanriko/pawanriko/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawanriko/pawanriko/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/pawanriko/pawanriko/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
