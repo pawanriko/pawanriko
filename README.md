@@ -12,6 +12,8 @@ Open to internships and collaboration.
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/zecxoff)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanriko@gmail.com)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(Django+%2B+React);AI+Agent+Builder;BCA+Student+%40+IITM+Janakpuri;Open+to+Internships" alt="Typing animation" />
+
 </div>
 
 ---
@@ -57,9 +59,31 @@ Open to internships and collaboration.
 
 ![](https://github-readme-stats.shion.dev/api?username=pawanriko&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pawanriko&layout=compact&theme=dark&hide_border=true)
+
 ![](https://streak-stats.demolab.com/?user=pawanriko&theme=dark&hide_border=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=pawanriko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=pawanriko&bg_color=0d1117&color=ffffff&line=2f81f7&point=ffffff&area=true&hide_border=true)
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pawanriko/pawanriko/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pawanriko/pawanriko/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/pawanriko/pawanriko/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -75,3 +99,5 @@ Open to internships and collaboration.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawanriko/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ZecxoF52633)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawanriko@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="" />
