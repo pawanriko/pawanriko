@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Pawan%20Kumar&fontSize=46&fontColor=ffffff&animation=twinkling&desc=BCA%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%20Builder&descSize=17&descAlignY=58" width="100%" alt="Pawan Kumar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Pawan%20Kumar&fontSize=48&fontColor=ffffff&animation=twinkling" width="100%" alt="Pawan Kumar" />
 
 <div align="center">
 
