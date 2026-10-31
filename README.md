@@ -21,6 +21,12 @@
 
 Python · Django · React · JavaScript · C++ · HTML · CSS · Git & GitHub · Groq API
 
+## Achievements & Certifications
+
+**HackerRank Orchestrate - October '26** - Certificate of Achievement, final rank **#1802 / 4,094**, for building and deploying an AI agent (deletion-audit agent, "Ghost Data Still Exists").
+
+<img src="orchestrate-october-2026.png" alt="HackerRank Orchestrate October '26 certificate - Pawan, final rank 1802 of 4094" width="640">
+
 ## Coding Profiles
 
 - LeetCode: [pawanriko](https://leetcode.com/u/pawanriko/)
