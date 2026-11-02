@@ -65,7 +65,6 @@ I'm looking for internships and people to build things with.
 
 </div>
 
-## Activity graph
 
 <div align="center">
 
