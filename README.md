@@ -2,10 +2,8 @@
 
 <div align="center">
 
-**BCA Student · Full-Stack Developer (Django + React) · AI Builder**
-
-Based in New Delhi, India — I build AI & web projects and I'm learning DSA, Python, and JavaScript.
-Open to internships and collaboration.
+BCA student from New Delhi. I build web apps with Django and React, and lately I've been spending a lot of time on AI projects.
+I'm looking for internships and people to build things with.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawanriko/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pawanriko/)
@@ -18,25 +16,25 @@ Open to internships and collaboration.
 
 ---
 
-## 👨‍💻 About Me
+## About me
 
-- 🎓 BCA student at **IITM Janakpuri, New Delhi**
-- 🔭 Currently building **[HireSense AI](https://github.com/pawanriko/hiresense-ai)** and **[Kai-AI](https://github.com/pawanriko/Kai-AI)**
-- 🌱 Currently learning **full-stack development (Django + React)** and **DSA**
-- 💬 Ask me about: working during the day, coding like Batman at night 🦇
+- BCA student at IITM Janakpuri, New Delhi
+- Right now I'm mostly working on [HireSense AI](https://github.com/pawanriko/hiresense-ai) and [Kai-AI](https://github.com/pawanriko/Kai-AI)
+- Learning full-stack development (Django + React) and DSA, side by side
+- Ask me about: working during the day, coding like Batman at night 🦇
 
-## 🚀 Featured Projects
+## Projects I actually maintain
 
 | Project | What it is | Tech |
 |---|---|---|
-| [HireSense AI](https://github.com/pawanriko/hiresense-ai) | AI interview-prep platform: ATS resume scoring, JD matching with evidence, mock interviews, application tracker — [live demo](https://hiresense-ai-s8ih.onrender.com) (demo / demo1234) | Django, React, PostgreSQL, Groq/Gemini AI |
-| [Kai-AI](https://github.com/pawanriko/Kai-AI) | Personal AI agent: multi-provider chat (Groq, OpenRouter, NVIDIA, DeepSeek, Gemini), long-term memory, tool-using agent mode and a coding-agent mode | Django, React, SQLite |
-| [Portfolio](https://github.com/pawanriko/portfolio) | My personal portfolio website | HTML, CSS, JavaScript |
-| [Mini-Projects](https://github.com/pawanriko/mini-project) | DSA Visualizer, Student Management System, To-Do App, Digital Clock | HTML, CSS, JavaScript, C++ |
-| [Python](https://github.com/pawanriko/Python) | My structured Python learning journey, module by module | Python |
-| [LeetCode Solutions](https://github.com/pawanriko/LeetcodeProblemSolved) | LeetCode problem solutions (via LeetHub) | C++ |
+| [HireSense AI](https://github.com/pawanriko/hiresense-ai) | Interview prep tool I built for candidates: check your resume's ATS score, match it against a job description with proof, practise mock interviews, track applications — [live demo](https://hiresense-ai-s8ih.onrender.com) (demo / demo1234) | Django, React, PostgreSQL, Groq/Gemini AI |
+| [Kai-AI](https://github.com/pawanriko/Kai-AI) | My personal AI assistant. It can chat through 5 different AI providers (Groq, OpenRouter, NVIDIA, DeepSeek, Gemini), remembers things about me, and has an agent mode that uses tools plus a coding mode that edits files in a sandbox | Django, React, SQLite |
+| [Portfolio](https://github.com/pawanriko/portfolio) | My portfolio website | HTML, CSS, JavaScript |
+| [Mini-Projects](https://github.com/pawanriko/mini-project) | Small stuff from when I was learning: DSA Visualizer, Student Management System, To-Do App, Digital Clock | HTML, CSS, JavaScript, C++ |
+| [Python](https://github.com/pawanriko/Python) | My Python notes and practice files, module by module as I learn | Python |
+| [LeetCode Solutions](https://github.com/pawanriko/LeetcodeProblemSolved) | My LeetCode solutions, synced through LeetHub | C++ |
 
-## 🛠️ Tech Stack
+## Tech stack
 
 <div align="center">
 
@@ -53,7 +51,7 @@ Open to internships and collaboration.
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub stats
 
 <div align="center">
 
@@ -67,7 +65,7 @@ Open to internships and collaboration.
 
 </div>
 
-## 📈 Activity Graph
+## Activity graph
 
 <div align="center">
 
@@ -75,13 +73,13 @@ Open to internships and collaboration.
 
 </div>
 
-## 🏆 Coding Profiles
+## Coding profiles
 
 - **LeetCode:** [pawanriko](https://leetcode.com/u/pawanriko/)
 - **HackerRank:** [zecxoff](https://www.hackerrank.com/profile/zecxoff)
 - **LinkedIn:** [pawanriko](https://www.linkedin.com/in/pawanriko/)
 
-## 📫 Connect With Me
+## Find me here
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rikoshugishax11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawanriko/)
