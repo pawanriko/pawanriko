@@ -59,7 +59,7 @@ I'm looking for internships and people to build things with.
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pawanriko&layout=compact&theme=dark&hide_border=true)
 
-![](https://streak-stats.demolab.com/?user=pawanriko&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=pawanriko&theme=dark&hide_border=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=pawanriko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
