@@ -28,8 +28,8 @@ I'm looking for internships and people to build things with.
 - [Portfolio](https://pawanriko.github.io/portfolio/portfolio/) — my site, the cinematic one
 - [HireSense AI](https://hiresense-ai-s8ih.onrender.com) — interview prep for candidates, running on Render
 - [Kai-AI](https://kai-ai.antideploy.app) — my personal AI assistant, live
-- [DSA Visualizer](https://pawanriko.github.io/mini-project/DSA%20Visualizer/) — data structures and sorting, animated step by step
-- [Student Management System](https://pawanriko.github.io/mini-project/Student%20Management%20System/) — my C++ console project, with a web face on it now
+- [DSA Visualizer](https://pawanriko.github.io/DSA-Visualizer/) — data structures and sorting, animated step by step
+- [Student Management System](https://pawanriko.github.io/Student-Management-System/) — my C++ console project, with a web face on it now
 
 ## Projects I actually maintain
 
