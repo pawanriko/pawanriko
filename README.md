@@ -9,6 +9,7 @@ I'm looking for internships and people to build things with.
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pawanriko/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/zecxoff)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawanriko@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-B31B1B?style=for-the-badge)](https://pawanriko.github.io/portfolio/portfolio/Pawan_Kumar_Resume.pdf)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(Django+%2B+React);AI+Agent+Builder;BCA+Student+%40+IITM+Janakpuri;Open+to+Internships" alt="Typing animation" />
 
@@ -25,6 +26,7 @@ I'm looking for internships and people to build things with.
 
 ## Try them live
 
+- [Resume (PDF)](https://pawanriko.github.io/portfolio/portfolio/Pawan_Kumar_Resume.pdf) — my one-page resume, download it
 - [Portfolio](https://pawanriko.github.io/portfolio/portfolio/) — my site, the cinematic one
 - [HireSense AI](https://hiresense-ai-s8ih.onrender.com) — interview prep for candidates, running on Render
 - [Kai-AI](https://kai-ai.antideploy.app) — my personal AI assistant, live
