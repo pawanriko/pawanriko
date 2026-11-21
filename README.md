@@ -84,8 +84,6 @@ flowchart LR
 
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=pawanriko&theme=dark&hide_border=true)
 
-![](https://github-profile-trophy.vercel.app/?username=pawanriko&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 </div>
 
 
