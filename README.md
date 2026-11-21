@@ -44,9 +44,22 @@ I'm looking for internships and people to build things with.
 | [Python](https://github.com/pawanriko/Python) | My Python notes and practice files, module by module as I learn | Python |
 | [LeetCode Solutions](https://github.com/pawanriko/LeetcodeProblemSolved) | My LeetCode solutions, synced through LeetHub | C++ |
 
+## How I ship a project
+
+```mermaid
+flowchart LR
+    A[Idea / problem I have] --> B[Build it in Django + React]
+    B --> C[Test it locally]
+    C --> D[Push to GitHub]
+    D --> E[Deploy free on Render + Neon]
+    E --> F[Live link — try it, break it, tell me]
+```
+
 ## Tech stack
 
 <div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,react,js,html,css,cpp,postgres,sqlite,git,github)](https://skillicons.dev)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
